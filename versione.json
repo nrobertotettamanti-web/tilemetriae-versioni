@@ -1,0 +1,22 @@
+{
+  "_nota": "Scheda dell'ultima versione di Tilemetriae: l'app la legge per sapere se aggiornarsi. Gli APK stanno qui accanto.",
+  "versione": "1.27.0",
+  "build": 63,
+  "data": "2026-10-24",
+  "novita": [
+    "In Aggiornamenti c'è «Mandala a un amico»: il link dell'app da mandare con WhatsApp o Telegram, oppure da copiare",
+    "Il link scarica sempre l'ultima versione: va bene per chi non ha l'app e per chi ce l'ha vecchia"
+  ],
+  "file": {
+    "arm64-v8a": {
+      "nome": "Tilemetriae-1.27.0-arm64-v8a.apk",
+      "sha256": "1381b6901c2c02de3d5dbcdc2d0daf8ac80a7088e327fccd04e7acd045cfad14",
+      "byte": 18817667
+    },
+    "armeabi-v7a": {
+      "nome": "Tilemetriae-1.27.0-armeabi-v7a.apk",
+      "sha256": "c77c2160e8c0cdf56a906b460fa4381bd553b8c5a965059347ac22f50d7c5bf2",
+      "byte": 16328591
+    }
+  }
+}
