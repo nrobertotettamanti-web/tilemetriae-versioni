@@ -1,0 +1,27 @@
+{
+  "_nota": "Scheda dell'ultima versione di Tilemetriae: l'app la legge per sapere se aggiornarsi. Gli APK stanno qui accanto.",
+  "versione": "1.32.0",
+  "build": 69,
+  "data": "2026-10-25",
+  "novita": [
+    "L'SOS riconosce la caduta anche mentre la moto scivola, e se riparti si ferma da solo",
+    "Dice se l'SMS di soccorso è partito davvero: senza campo riprova da solo",
+    "Avvisa se manca il permesso per gli SMS, e per fermare l'SOS basta dire annulla",
+    "Un giro non si perde più allo STOP, nemmeno con la memoria piena o il telefono che si spegne",
+    "Piega e velocità massime più vere: niente più 90 gradi da fermo né salti del GPS",
+    "Nel backup di Google restano sempre primati e impostazioni",
+    "Il telefono del proprietario è più protetto, e ogni aggiornamento viene controllato prima di installarlo"
+  ],
+  "file": {
+    "arm64-v8a": {
+      "nome": "Tilemetriae-1.32.0-arm64-v8a.apk",
+      "sha256": "9cf13347faa4965e864d8c92d488612f4157682322cb35fc069b3d4f9ca067f7",
+      "byte": 19318571
+    },
+    "armeabi-v7a": {
+      "nome": "Tilemetriae-1.32.0-armeabi-v7a.apk",
+      "sha256": "809aa898dfd029618998c23556f1d7c9ee874eddccb270c566a7de04a12ecbd3",
+      "byte": 16845883
+    }
+  }
+}
