@@ -1,0 +1,26 @@
+{
+  "_nota": "Scheda dell'ultima versione di Tilemetriae: l'app la legge per sapere se aggiornarsi. Gli APK stanno qui accanto.",
+  "versione": "1.34.0",
+  "build": 74,
+  "data": "2026-11-01",
+  "novita": [
+    "Radio nella pagina Musica: RTL 102.5, Radio Deejay e Radio Italia già pronte, e con Aggiungi ne cerchi altre",
+    "La radio continua a schermo spento, si abbassa quando parlano Google Maps o gli avvisi, e avanti e indietro cambiano stazione",
+    "La pagina Musica mostra titolo, artista e copertina di quello che suona, e i comandi vanno all'app giusta",
+    "In basso le tue app di musica: un tocco e parte quella",
+    "Destinazione: scegliendo dove andare parte anche la guida di Google Maps verso lo stesso punto",
+    "Salvataggi più sicuri: due salvataggi nello stesso istante non rovinano più i file"
+  ],
+  "file": {
+    "arm64-v8a": {
+      "nome": "Tilemetriae-1.34.0-arm64-v8a.apk",
+      "sha256": "e2d1369e88d2aba6ef6778a7bc3f237ba8b60f97298e94c585e7b9d4c45a270d",
+      "byte": 20143004
+    },
+    "armeabi-v7a": {
+      "nome": "Tilemetriae-1.34.0-armeabi-v7a.apk",
+      "sha256": "d9bab376661c715515949cc12da4bf3954be82c93408747a1588693c2c031160",
+      "byte": 17686700
+    }
+  }
+}
